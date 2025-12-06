@@ -1,0 +1,368 @@
+[{
+  "_id": 1,
+  "fname": "Robert",
+  "lname": "King",
+  "phone": "555-2001",
+  "email": "robert.king@drivers.com",
+  "address": "Hudson Yards",
+  "location": {
+    "lat": 40.754,
+    "long": -74.002
+  },
+  "radius_miles": 4,
+  "vehicle": {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2020
+  },
+  "reviews_from_users": [
+    {
+      "ride_id": 3,
+      "user_id": 10,
+      "rating": 5,
+      "comments": "Great customer"
+    }
+  ]
+},
+{
+  "_id": 2,
+  "fname": "Maria",
+  "lname": "Lopez",
+  "phone": "555-2002",
+  "email": "maria.lopez@drivers.com",
+  "address": "SoHo",
+  "location": {
+    "lat": 40.7239,
+    "long": -74.0002
+  },
+  "radius_miles": 3,
+  "vehicle": {
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2019
+  },
+  "reviews_from_users": [
+    {
+      "ride_id": 1,
+      "user_id": 5,
+      "rating": 5,
+      "comments": "Respectful passenger"
+    },
+    {
+      "ride_id": 31,
+      "user_id": 19,
+      "rating": 3,
+      "comments": "Average"
+    }
+  ]
+},
+{
+  "_id": 3,
+  "fname": "Thomas",
+  "lname": "Smith",
+  "phone": "555-2003",
+  "email": "thomas.smith@drivers.com",
+  "address": "Williamsburg",
+  "location": {
+    "lat": 40.713,
+    "long": -73.9581
+  },
+  "radius_miles": 6,
+  "vehicle": {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2022
+  },
+  "reviews_from_users": [
+    {
+      "ride_id": 22,
+      "user_id": 3,
+      "rating": 5,
+      "comments": "Super friendly"
+    },
+    {
+      "ride_id": 21,
+      "user_id": 1,
+      "rating": 4,
+      "comments": "Good ride"
+    },
+    {
+      "ride_id": 41,
+      "user_id": 37,
+      "rating": 4,
+      "comments": "Respectful"
+    },
+    {
+      "ride_id": 45,
+      "user_id": 45,
+      "rating": 2,
+      "comments": "Late"
+    }
+  ]
+},
+{
+  "_id": 4,
+  "fname": "Patricia",
+  "lname": "Hall",
+  "phone": "555-2004",
+  "email": "patricia.hall@drivers.com",
+  "address": "Astoria",
+  "location": {
+    "lat": 40.769,
+    "long": -73.9305
+  },
+  "radius_miles": 7,
+  "vehicle": {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": 2021
+  },
+  "reviews_from_users": [
+    {
+      "ride_id": 25,
+      "user_id": 7,
+      "rating": 3,
+      "comments": "Could improve"
+    },
+    {
+      "ride_id": 33,
+      "user_id": 23,
+      "rating": 4,
+      "comments": "Smooth"
+    },
+    {
+      "ride_id": 28,
+      "user_id": 13,
+      "rating": 5,
+      "comments": "Excellent"
+    },
+    {
+      "ride_id": 35,
+      "user_id": 28,
+      "rating": 5,
+      "comments": "Great rider"
+    },
+    {
+      "ride_id": 44,
+      "user_id": 43,
+      "rating": 4,
+      "comments": "Good"
+    }
+  ]
+},
+{
+  "_id": 5,
+  "fname": "Christopher",
+  "lname": "Young",
+  "phone": "555-2005",
+  "email": "chris.young@drivers.com",
+  "address": "Harlem",
+  "location": {
+    "lat": 40.8116,
+    "long": -73.9442
+  },
+  "radius_miles": 5,
+  "vehicle": {
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2020
+  },
+  "reviews_from_users": [
+    {
+      "ride_id": 24,
+      "user_id": 6,
+      "rating": 4,
+      "comments": "Good"
+    },
+    {
+      "ride_id": 43,
+      "user_id": 41,
+      "rating": 3,
+      "comments": "OK rider"
+    }
+  ]
+},
+{
+  "_id": 6,
+  "fname": "Jessica",
+  "lname": "Allen",
+  "phone": "555-2006",
+  "email": "jessica.allen@drivers.com",
+  "address": "Downtown Brooklyn",
+  "location": {
+    "lat": 40.6925,
+    "long": -73.98
+  },
+  "radius_miles": 4,
+  "vehicle": {
+    "make": "Ford",
+    "model": "Focus",
+    "year": 2018
+  },
+  "reviews_from_users": [
+    {
+      "ride_id": 36,
+      "user_id": 30,
+      "rating": 4,
+      "comments": "Good personality"
+    },
+    {
+      "ride_id": 29,
+      "user_id": 15,
+      "rating": 5,
+      "comments": "Amazing"
+    }
+  ]
+},
+{
+  "_id": 7,
+  "fname": "Andrew",
+  "lname": "Wright",
+  "phone": "555-2007",
+  "email": "andrew.wright@drivers.com",
+  "address": "Flushing",
+  "location": {
+    "lat": 40.758,
+    "long": -73.8301
+  },
+  "radius_miles": 8,
+  "vehicle": {
+    "make": "Kia",
+    "model": "Optima",
+    "year": 2019
+  },
+  "reviews_from_users": [
+    {
+      "ride_id": 30,
+      "user_id": 17,
+      "rating": 4,
+      "comments": "Good experience"
+    },
+    {
+      "ride_id": 33,
+      "user_id": 21,
+      "rating": 5,
+      "comments": "Great driver"
+    },
+    {
+      "ride_id": 40,
+      "user_id": 36,
+      "rating": 5,
+      "comments": "Lovely passenger"
+    }
+  ]
+},
+{
+  "_id": 8,
+  "fname": "Megan",
+  "lname": "Scott",
+  "phone": "555-2008",
+  "email": "megan.scott@drivers.com",
+  "address": "Long Island City",
+  "location": {
+    "lat": 40.744,
+    "long": -73.9401
+  },
+  "radius_miles": 10,
+  "vehicle": {
+    "make": "Subaru",
+    "model": "Forester",
+    "year": 2020
+  },
+  "reviews_from_users": [
+    {
+      "ride_id": 26,
+      "user_id": 9,
+      "rating": 5,
+      "comments": "Amazing trip"
+    },
+    {
+      "ride_id": 37,
+      "user_id": 32,
+      "rating": 5,
+      "comments": "Amazing!"
+    },
+    {
+      "ride_id": 42,
+      "user_id": 38,
+      "rating": 5,
+      "comments": "Very polite"
+    }
+  ]
+},
+{
+  "_id": 9,
+  "fname": "Brandon",
+  "lname": "Hill",
+  "phone": "555-2009",
+  "email": "brandon.hill@drivers.com",
+  "address": "Upper West Side",
+  "location": {
+    "lat": 40.787,
+    "long": -73.9775
+  },
+  "radius_miles": 4,
+  "vehicle": {
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "year": 2017
+  },
+  "reviews_from_users": [
+    {
+      "ride_id": 27,
+      "user_id": 11,
+      "rating": 4,
+      "comments": "Good"
+    },
+    {
+      "ride_id": 34,
+      "user_id": 26,
+      "rating": 4,
+      "comments": "Pleasant"
+    },
+    {
+      "ride_id": 46,
+      "user_id": 47,
+      "rating": 5,
+      "comments": "Kind customer"
+    }
+  ]
+},
+{
+  "_id": 10,
+  "fname": "Natalie",
+  "lname": "Green",
+  "phone": "555-2010",
+  "email": "natalie.green@drivers.com",
+  "address": "Park Slope",
+  "location": {
+    "lat": 40.665,
+    "long": -73.979
+  },
+  "radius_miles": 5,
+  "vehicle": {
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "year": 2019
+  },
+  "reviews_from_users": [
+    {
+      "ride_id": 28,
+      "user_id": 14,
+      "rating": 5,
+      "comments": "Excellent"
+    },
+    {
+      "ride_id": 35,
+      "user_id": 28,
+      "rating": 5,
+      "comments": "Excellent"
+    },
+    {
+      "ride_id": 47,
+      "user_id": 49,
+      "rating": 5,
+      "comments": "Excellent"
+    }
+  ]
+}]

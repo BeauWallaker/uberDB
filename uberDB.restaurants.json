@@ -1,0 +1,50 @@
+[{
+  "_id": 1,
+  "name": "Pasta Palace",
+  "address": "12 Olive St"
+},
+{
+  "_id": 2,
+  "name": "Burger Barn",
+  "address": "55 Market Rd"
+},
+{
+  "_id": 3,
+  "name": "Sushi World",
+  "address": "78 Ocean Ave"
+},
+{
+  "_id": 4,
+  "name": "Taco Town",
+  "address": "91 Fiesta Blvd"
+},
+{
+  "_id": 5,
+  "name": "BBQ House",
+  "address": "22 Smoke Rd"
+},
+{
+  "_id": 6,
+  "name": "Curry Corner",
+  "address": "33 Spice St"
+},
+{
+  "_id": 7,
+  "name": "Pizza Planet",
+  "address": "44 Orbit Dr"
+},
+{
+  "_id": 8,
+  "name": "Noodle Nook",
+  "address": "66 Dragon Way"
+},
+{
+  "_id": 9,
+  "name": "Fresh Bites",
+  "address": "88 Garden Ln"
+},
+{
+  "_id": 10,
+  "name": "Vegan Valley",
+  "address": "101 Green St"
+}]

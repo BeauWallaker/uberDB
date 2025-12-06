@@ -1,0 +1,50 @@
+[{
+  "_id": 1,
+  "name": "FreshMart",
+  "address": "11 Valley Rd"
+},
+{
+  "_id": 2,
+  "name": "DailyGrocer",
+  "address": "22 Pine Rd"
+},
+{
+  "_id": 3,
+  "name": "MegaFoods",
+  "address": "33 Hillcrest Ave"
+},
+{
+  "_id": 4,
+  "name": "GreenLeaf Market",
+  "address": "44 Blossom Ln"
+},
+{
+  "_id": 5,
+  "name": "BudgetFoods",
+  "address": "55 LowPrice Blvd"
+},
+{
+  "_id": 6,
+  "name": "LocalHarvest",
+  "address": "66 Farm Rd"
+},
+{
+  "_id": 7,
+  "name": "HealthHub",
+  "address": "77 Wellness St"
+},
+{
+  "_id": 8,
+  "name": "QuickCart",
+  "address": "88 Speedy Rd"
+},
+{
+  "_id": 9,
+  "name": "HappyFoods",
+  "address": "99 Joy St"
+},
+{
+  "_id": 10,
+  "name": "Organic Market",
+  "address": "101 Pure Rd"
+}]

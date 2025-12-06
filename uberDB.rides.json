@@ -1,0 +1,320 @@
+[{
+  "_id": 1,
+  "user_id": 5,
+  "driver_id": 2,
+  "date": "2024-10-01",
+  "distance_miles": 2.4,
+  "duration_minutes": 10,
+  "pickup_location": {
+    "lat": 40.7465,
+    "long": -73.9951
+  },
+  "dropoff_location": {
+    "lat": 40.7323,
+    "long": -73.9876
+  }
+},
+{
+  "_id": 2,
+  "user_id": 8,
+  "driver_id": 3,
+  "date": "2024-10-02",
+  "distance_miles": 3.9,
+  "duration_minutes": 14,
+  "pickup_location": {
+    "lat": 40.758,
+    "long": -73.9855
+  },
+  "dropoff_location": {
+    "lat": 40.7648,
+    "long": -73.9808
+  }
+},
+{
+  "_id": 3,
+  "user_id": 10,
+  "driver_id": 1,
+  "date": "2024-10-03",
+  "distance_miles": 5.3,
+  "duration_minutes": 17,
+  "pickup_location": {
+    "lat": 40.8296,
+    "long": -73.9262
+  },
+  "dropoff_location": {
+    "lat": 40.817,
+    "long": -73.947
+  }
+},
+{
+  "_id": 4,
+  "user_id": 3,
+  "driver_id": 3,
+  "date": "2024-10-04",
+  "distance_miles": 3.7,
+  "duration_minutes": 13,
+  "pickup_location": {
+    "lat": 40.7505,
+    "long": -73.9934
+  },
+  "dropoff_location": {
+    "lat": 40.76,
+    "long": -73.9845
+  }
+},
+{
+  "_id": 5,
+  "user_id": 14,
+  "driver_id": 5,
+  "date": "2024-10-05",
+  "distance_miles": 1.8,
+  "duration_minutes": 7,
+  "pickup_location": {
+    "lat": 40.6931,
+    "long": -73.9903
+  },
+  "dropoff_location": {
+    "lat": 40.6736,
+    "long": -73.978
+  }
+},
+{
+  "_id": 6,
+  "user_id": 22,
+  "driver_id": 4,
+  "date": "2024-10-06",
+  "distance_miles": 4.5,
+  "duration_minutes": 15,
+  "pickup_location": {
+    "lat": 40.7644,
+    "long": -73.9235
+  },
+  "dropoff_location": {
+    "lat": 40.7421,
+    "long": -73.9541
+  }
+},
+{
+  "_id": 7,
+  "user_id": 29,
+  "driver_id": 1,
+  "date": "2024-10-07",
+  "distance_miles": 6,
+  "duration_minutes": 19,
+  "pickup_location": {
+    "lat": 40.6409,
+    "long": -73.957
+  },
+  "dropoff_location": {
+    "lat": 40.6782,
+    "long": -73.9442
+  }
+},
+{
+  "_id": 8,
+  "user_id": 17,
+  "driver_id": 6,
+  "date": "2024-10-08",
+  "distance_miles": 3,
+  "duration_minutes": 11,
+  "pickup_location": {
+    "lat": 40.696,
+    "long": -73.995
+  },
+  "dropoff_location": {
+    "lat": 40.7046,
+    "long": -73.9864
+  }
+},
+{
+  "_id": 9,
+  "user_id": 2,
+  "driver_id": 7,
+  "date": "2024-10-09",
+  "distance_miles": 2.7,
+  "duration_minutes": 10,
+  "pickup_location": {
+    "lat": 40.7282,
+    "long": -73.7949
+  },
+  "dropoff_location": {
+    "lat": 40.7401,
+    "long": -73.8801
+  }
+},
+{
+  "_id": 10,
+  "user_id": 40,
+  "driver_id": 4,
+  "date": "2024-10-10",
+  "distance_miles": 3.4,
+  "duration_minutes": 12,
+  "pickup_location": {
+    "lat": 40.7093,
+    "long": -73.9055
+  },
+  "dropoff_location": {
+    "lat": 40.7193,
+    "long": -73.846
+  }
+},
+{
+  "_id": 11,
+  "user_id": 1,
+  "driver_id": 8,
+  "date": "2024-10-11",
+  "distance_miles": 5.1,
+  "duration_minutes": 18,
+  "pickup_location": {
+    "lat": 40.7465,
+    "long": -74.0008
+  },
+  "dropoff_location": {
+    "lat": 40.7549,
+    "long": -73.9847
+  }
+},
+{
+  "_id": 12,
+  "user_id": 23,
+  "driver_id": 9,
+  "date": "2024-10-12",
+  "distance_miles": 6.8,
+  "duration_minutes": 20,
+  "pickup_location": {
+    "lat": 40.6922,
+    "long": -73.973
+  },
+  "dropoff_location": {
+    "lat": 40.724,
+    "long": -73.954
+  }
+},
+{
+  "_id": 13,
+  "user_id": 15,
+  "driver_id": 3,
+  "date": "2024-10-13",
+  "distance_miles": 1.5,
+  "duration_minutes": 6,
+  "pickup_location": {
+    "lat": 40.8674,
+    "long": -73.9227
+  },
+  "dropoff_location": {
+    "lat": 40.8788,
+    "long": -73.9054
+  }
+},
+{
+  "_id": 14,
+  "user_id": 19,
+  "driver_id": 10,
+  "date": "2024-10-14",
+  "distance_miles": 2.9,
+  "duration_minutes": 9,
+  "pickup_location": {
+    "lat": 40.7081,
+    "long": -73.9567
+  },
+  "dropoff_location": {
+    "lat": 40.6937,
+    "long": -73.9079
+  }
+},
+{
+  "_id": 15,
+  "user_id": 37,
+  "driver_id": 6,
+  "date": "2024-10-15",
+  "distance_miles": 4.3,
+  "duration_minutes": 14,
+  "pickup_location": {
+    "lat": 40.7182,
+    "long": -73.8448
+  },
+  "dropoff_location": {
+    "lat": 40.7027,
+    "long": -73.7936
+  }
+},
+{
+  "_id": 16,
+  "user_id": 28,
+  "driver_id": 8,
+  "date": "2024-10-16",
+  "distance_miles": 7.2,
+  "duration_minutes": 21,
+  "pickup_location": {
+    "lat": 40.5763,
+    "long": -73.9814
+  },
+  "dropoff_location": {
+    "lat": 40.6409,
+    "long": -73.957
+  }
+},
+{
+  "_id": 17,
+  "user_id": 50,
+  "driver_id": 10,
+  "date": "2024-10-17",
+  "distance_miles": 5.4,
+  "duration_minutes": 17,
+  "pickup_location": {
+    "lat": 40.8746,
+    "long": -73.8293
+  },
+  "dropoff_location": {
+    "lat": 40.8141,
+    "long": -73.8224
+  }
+},
+{
+  "_id": 18,
+  "user_id": 9,
+  "driver_id": 1,
+  "date": "2024-10-18",
+  "distance_miles": 3,
+  "duration_minutes": 11,
+  "pickup_location": {
+    "lat": 40.8116,
+    "long": -73.9454
+  },
+  "dropoff_location": {
+    "lat": 40.7876,
+    "long": -73.9779
+  }
+},
+{
+  "_id": 19,
+  "user_id": 6,
+  "driver_id": 7,
+  "date": "2024-10-19",
+  "distance_miles": 4.8,
+  "duration_minutes": 15,
+  "pickup_location": {
+    "lat": 40.7359,
+    "long": -74.0039
+  },
+  "dropoff_location": {
+    "lat": 40.7249,
+    "long": -74
+  }
+},
+{
+  "_id": 20,
+  "user_id": 11,
+  "driver_id": 9,
+  "date": "2024-10-20",
+  "distance_miles": 2.2,
+  "duration_minutes": 8,
+  "pickup_location": {
+    "lat": 40.7249,
+    "long": -74
+  },
+  "dropoff_location": {
+    "lat": 40.7163,
+    "long": -74.0076
+  }
+}]

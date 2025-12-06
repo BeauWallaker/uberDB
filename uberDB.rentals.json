@@ -1,0 +1,300 @@
+[{
+  "_id": 1,
+  "user_id": 12,
+  "car": {
+    "car_id": 3,
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2021,
+    "license_plate": "TES789",
+    "price_per_hour": 25
+  },
+  "hours_rented": 4,
+  "date": "2024-10-02",
+  "total_price": 100
+},
+{
+  "_id": 2,
+  "user_id": 7,
+  "car": {
+    "car_id": 1,
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "license_plate": "ABC123",
+    "price_per_hour": 15
+  },
+  "hours_rented": 6,
+  "date": "2024-10-03",
+  "total_price": 90
+},
+{
+  "_id": 3,
+  "user_id": 25,
+  "car": {
+    "car_id": 7,
+    "make": "Audi",
+    "model": "A4",
+    "year": 2021,
+    "license_plate": "AUD777",
+    "price_per_hour": 28
+  },
+  "hours_rented": 3,
+  "date": "2024-10-04",
+  "total_price": 84
+},
+{
+  "_id": 4,
+  "user_id": 4,
+  "car": {
+    "car_id": 5,
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2018,
+    "license_plate": "NIS654",
+    "price_per_hour": 13
+  },
+  "hours_rented": 5,
+  "date": "2024-10-05",
+  "total_price": 65
+},
+{
+  "_id": 5,
+  "user_id": 9,
+  "car": {
+    "car_id": 6,
+    "make": "BMW",
+    "model": "X3",
+    "year": 2022,
+    "license_plate": "BMW001",
+    "price_per_hour": 30
+  },
+  "hours_rented": 7,
+  "date": "2024-10-06",
+  "total_price": 210
+},
+{
+  "_id": 6,
+  "user_id": 31,
+  "car": {
+    "car_id": 10,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "year": 2021,
+    "license_plate": "JEP999",
+    "price_per_hour": 22
+  },
+  "hours_rented": 2,
+  "date": "2024-10-07",
+  "total_price": 44
+},
+{
+  "_id": 7,
+  "user_id": 46,
+  "car": {
+    "car_id": 4,
+    "make": "Ford",
+    "model": "Escape",
+    "year": 2020,
+    "license_plate": "FOR321",
+    "price_per_hour": 17
+  },
+  "hours_rented": 8,
+  "date": "2024-10-08",
+  "total_price": 136
+},
+{
+  "_id": 8,
+  "user_id": 18,
+  "car": {
+    "car_id": 8,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": 2019,
+    "license_plate": "HYN888",
+    "price_per_hour": 12
+  },
+  "hours_rented": 4,
+  "date": "2024-10-09",
+  "total_price": 48
+},
+{
+  "_id": 9,
+  "user_id": 2,
+  "car": {
+    "car_id": 14,
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": 2021,
+    "license_plate": "MAZ666",
+    "price_per_hour": 18
+  },
+  "hours_rented": 3,
+  "date": "2024-10-10",
+  "total_price": 54
+},
+{
+  "_id": 10,
+  "user_id": 40,
+  "car": {
+    "car_id": 9,
+    "make": "Kia",
+    "model": "Optima",
+    "year": 2020,
+    "license_plate": "KIA555",
+    "price_per_hour": 14
+  },
+  "hours_rented": 9,
+  "date": "2024-10-11",
+  "total_price": 126
+},
+{
+  "_id": 11,
+  "user_id": 1,
+  "car": {
+    "car_id": 12,
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2020,
+    "license_plate": "SUB222",
+    "price_per_hour": 16
+  },
+  "hours_rented": 4,
+  "date": "2024-10-12",
+  "total_price": 64
+},
+{
+  "_id": 12,
+  "user_id": 23,
+  "car": {
+    "car_id": 11,
+    "make": "Chevy",
+    "model": "Malibu",
+    "year": 2019,
+    "license_plate": "CHV333",
+    "price_per_hour": 14
+  },
+  "hours_rented": 5,
+  "date": "2024-10-13",
+  "total_price": 70
+},
+{
+  "_id": 13,
+  "user_id": 15,
+  "car": {
+    "car_id": 2,
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2019,
+    "license_plate": "XYZ456",
+    "price_per_hour": 14
+  },
+  "hours_rented": 6,
+  "date": "2024-10-14",
+  "total_price": 84
+},
+{
+  "_id": 14,
+  "user_id": 19,
+  "car": {
+    "car_id": 13,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "year": 2018,
+    "license_plate": "VW444",
+    "price_per_hour": 13
+  },
+  "hours_rented": 2,
+  "date": "2024-10-15",
+  "total_price": 26
+},
+{
+  "_id": 15,
+  "user_id": 37,
+  "car": {
+    "car_id": 3,
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2021,
+    "license_plate": "TES789",
+    "price_per_hour": 25
+  },
+  "hours_rented": 10,
+  "date": "2024-10-16",
+  "total_price": 250
+},
+{
+  "_id": 16,
+  "user_id": 28,
+  "car": {
+    "car_id": 6,
+    "make": "BMW",
+    "model": "X3",
+    "year": 2022,
+    "license_plate": "BMW001",
+    "price_per_hour": 30
+  },
+  "hours_rented": 1,
+  "date": "2024-10-17",
+  "total_price": 30
+},
+{
+  "_id": 17,
+  "user_id": 50,
+  "car": {
+    "car_id": 15,
+    "make": "Mercedes",
+    "model": "C300",
+    "year": 2022,
+    "license_plate": "MER111",
+    "price_per_hour": 30
+  },
+  "hours_rented": 4,
+  "date": "2024-10-18",
+  "total_price": 120
+},
+{
+  "_id": 18,
+  "user_id": 9,
+  "car": {
+    "car_id": 4,
+    "make": "Ford",
+    "model": "Escape",
+    "year": 2020,
+    "license_plate": "FOR321",
+    "price_per_hour": 17
+  },
+  "hours_rented": 5,
+  "date": "2024-10-19",
+  "total_price": 85
+},
+{
+  "_id": 19,
+  "user_id": 6,
+  "car": {
+    "car_id": 10,
+    "make": "Jeep",
+    "model": "Cherokee",
+    "year": 2021,
+    "license_plate": "JEP999",
+    "price_per_hour": 22
+  },
+  "hours_rented": 8,
+  "date": "2024-10-20",
+  "total_price": 176
+},
+{
+  "_id": 20,
+  "user_id": 11,
+  "car": {
+    "car_id": 7,
+    "make": "Audi",
+    "model": "A4",
+    "year": 2021,
+    "license_plate": "AUD777",
+    "price_per_hour": 28
+  },
+  "hours_rented": 2,
+  "date": "2024-10-21",
+  "total_price": 56
+}]

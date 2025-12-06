@@ -1,0 +1,120 @@
+[{
+  "_id": 1,
+  "make": "Toyota",
+  "model": "Camry",
+  "car_year": 2020,
+  "license_plate": "ABC123",
+  "price_per_hour": 15
+},
+{
+  "_id": 2,
+  "make": "Honda",
+  "model": "Accord",
+  "car_year": 2019,
+  "license_plate": "XYZ456",
+  "price_per_hour": 14
+},
+{
+  "_id": 3,
+  "make": "Tesla",
+  "model": "Model 3",
+  "car_year": 2021,
+  "license_plate": "TES789",
+  "price_per_hour": 25
+},
+{
+  "_id": 4,
+  "make": "Ford",
+  "model": "Escape",
+  "car_year": 2020,
+  "license_plate": "FOR321",
+  "price_per_hour": 17
+},
+{
+  "_id": 5,
+  "make": "Nissan",
+  "model": "Altima",
+  "car_year": 2018,
+  "license_plate": "NIS654",
+  "price_per_hour": 13
+},
+{
+  "_id": 6,
+  "make": "BMW",
+  "model": "X3",
+  "car_year": 2022,
+  "license_plate": "BMW001",
+  "price_per_hour": 30
+},
+{
+  "_id": 7,
+  "make": "Audi",
+  "model": "A4",
+  "car_year": 2021,
+  "license_plate": "AUD777",
+  "price_per_hour": 28
+},
+{
+  "_id": 8,
+  "make": "Hyundai",
+  "model": "Elantra",
+  "car_year": 2019,
+  "license_plate": "HYN888",
+  "price_per_hour": 12
+},
+{
+  "_id": 9,
+  "make": "Kia",
+  "model": "Optima",
+  "car_year": 2020,
+  "license_plate": "KIA555",
+  "price_per_hour": 14
+},
+{
+  "_id": 10,
+  "make": "Jeep",
+  "model": "Cherokee",
+  "car_year": 2021,
+  "license_plate": "JEP999",
+  "price_per_hour": 22
+},
+{
+  "_id": 11,
+  "make": "Chevy",
+  "model": "Malibu",
+  "car_year": 2019,
+  "license_plate": "CHV333",
+  "price_per_hour": 14
+},
+{
+  "_id": 12,
+  "make": "Subaru",
+  "model": "Outback",
+  "car_year": 2020,
+  "license_plate": "SUB222",
+  "price_per_hour": 16
+},
+{
+  "_id": 13,
+  "make": "Volkswagen",
+  "model": "Jetta",
+  "car_year": 2018,
+  "license_plate": "VW444",
+  "price_per_hour": 13
+},
+{
+  "_id": 14,
+  "make": "Mazda",
+  "model": "CX-5",
+  "car_year": 2021,
+  "license_plate": "MAZ666",
+  "price_per_hour": 18
+},
+{
+  "_id": 15,
+  "make": "Mercedes",
+  "model": "C300",
+  "car_year": 2022,
+  "license_plate": "MER111",
+  "price_per_hour": 30
+}]
